@@ -1,1 +1,1 @@
-# unity-oculus-quickstart
+# unity-oculus-quest-quickstart
